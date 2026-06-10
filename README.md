@@ -2,7 +2,7 @@
 
 🚀 **Transforming complex business challenges into scalable, AI-driven architectures.**
 
-Con más de 13 años de trayectoria, me especializo en el diseño de soluciones de software de alto impacto. Mi enfoque combina la robustez del backend tradicional con las capacidades emergentes de la IA agentica y la automatización, permitiendo a las empresas escalar de manera eficiente y segura.
+Con más de 16 años de trayectoria, me especializo en el diseño de soluciones de software de alto impacto. Mi enfoque combina la robustez del backend tradicional con las capacidades emergentes de la IA agentica y la automatización, permitiendo a las empresas escalar de manera eficiente y segura.
 
 ---
 
