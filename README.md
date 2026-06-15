@@ -2,7 +2,7 @@
 
 🚀 **Transforming complex business challenges into scalable, cloud-native, and AI-driven architectures.**
 
-With over 13 years of professional experience in the technology industry, I specialize in designing and engineering high-impact software solutions. My expertise bridges the gap between robust traditional backend engineering and emerging technologies, focusing on Multi-Agent AI systems, RAG architectures, cloud infrastructure, and enterprise process automation.
+With over 16 years of professional experience in the technology industry, I specialize in designing and engineering high-impact software solutions. My expertise bridges the gap between robust traditional backend engineering and emerging technologies, focusing on Multi-Agent AI systems, RAG architectures, cloud infrastructure, and enterprise process automation.
 
 ---
 
