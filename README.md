@@ -1,4 +1,4 @@
-# Jesús Rojas | Solutions Architect & Senior Backend Engineer
+# Jesús Rojas | Solutions Architect & Senior Backend/IA Engineer
 
 🚀 **Transforming complex business challenges into scalable, cloud-native, and AI-driven architectures.**
 
